@@ -1,0 +1,111 @@
+.all-reset {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.reset-link {
+    text-decoration: none;
+    color: black;
+}
+.reset-link:hover {
+    color: rgb(0, 255, 247);
+}
+.bg-light {
+    background-color: #f4f4f4;
+}
+.fz-1 {
+    font-size: 10px;
+}
+.fz-2 {
+    font-size: 20px;
+}
+.fz-3 {
+    font-size: 30px;
+}
+.fz-4 {
+    font-size: 40px;
+}
+.fz-5 {
+    font-size: 50px;
+}
+.m-auto {
+    margin: auto;
+}
+.ml-auto {
+    margin-left: auto;
+}
+.mr-auto {
+    margin-right: auto;
+}
+.mb-auto {
+    margin-bottom: auto;
+}
+.mt-auto {
+    margin-top: auto;
+}
+.p-auto {
+    padding: auto;
+}
+.pl-auto {
+    padding-left: auto;
+}
+.pr-auto {
+    padding-right: auto;
+}
+.pt-auto {
+    padding-top: auto;
+}
+.pb-auto {
+    padding-bottom: auto;
+}
+.d-block {
+    display: block;
+}
+.d-inline-b {
+    display: inline-block;
+}
+.d-flex {
+    display: flex;
+}
+.j-cont-center {
+    justify-content: center;
+}
+.j-cont-start {
+    justify-content: flex-start;
+}
+.j-cont-end {
+    justify-content: flex-end;
+}
+.j-cont-between {
+    justify-content: space-between;
+}
+.j-cont-around {
+    justify-content: space-around;
+}
+.j-cont-evenly {
+    justify-content: space-evenly;
+}
+.a-items-center {
+    align-items: center;
+}
+.a-items-start {
+    align-items: flex-start;
+}
+.a-items-end {
+    align-items: flex-end;
+}
+.a-cont-center {
+    align-content: center;
+}
+.f-wrap {
+    flex-wrap: wrap;
+}
+.t-center {
+    text-align: center;
+}
+.w-100 {
+    width: 100%;
+}
+.h-100 {
+    height: 100%;
+}
